@@ -2,7 +2,8 @@
 
 ## Umgesetzt
 
-* **QR-Code Service** — [GitHub](https://github.com/ljunker/qr-code-service) · [Service](https://qr.kryptikk.de)
+* **QR-Code Service** - [GitHub](https://github.com/ljunker/qr-code-service) · [Service](https://qr.kryptikk.de)
+* **Temporary File Drop & Tiny Pastebin** - [GitHub](https://github.com/ljunker/pasty) · [Service](https://pasty.kryptikk.de)
 
 ## Ideen
 
@@ -16,9 +17,11 @@
 
 * [ ] **One-Time Secret** — Speichert kurze Geheimnisse und erzeugt Links, die nur einmal oder innerhalb einer festgelegten Zeit verwendet werden können.
 
-* [ ] **Temporary File Drop** — Dateien werden hochgeladen, erhalten einen temporären Link und werden nach einer bestimmten Zeit automatisch gelöscht.
+* [x] **Temporary File Drop** — Dateien werden hochgeladen, erhalten einen temporären Link und werden nach einer bestimmten Zeit automatisch gelöscht.
 
-* [ ] **Tiny Pastebin** — Ein kleiner Pastebin-Service für Text und Code mit Syntax Highlighting, Ablaufdatum und optionalem Passwortschutz.
+* [x] **Tiny Pastebin** — Ein kleiner Pastebin-Service für Text und Code mit Syntax Highlighting, Ablaufdatum und optionalem Passwortschutz.
+
+* [x] **QR-Code Service** - Kleiner Service zum Erstellen von QR-Codes
 
 * [ ] **JSON Bin** — Eine einfache REST-API zum Speichern und Abrufen beliebiger JSON-Dokumente. Optional mit Versionierung und API-Keys.
 
