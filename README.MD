@@ -3,7 +3,7 @@
 ## Umgesetzt
 
 * **QR-Code Service** - [GitHub](https://github.com/ljunker/qr-code-service) · [Service](https://qr.kryptikk.de)
-* **Temporary File Drop & Tiny Pastebin** - [GitHub](https://github.com/ljunker/pasty) · [Service](https://pasty.kryptikk.de)
+* **Temporary File Drop & Tiny Pastebin & One-Time Secret** - [GitHub](https://github.com/ljunker/pasty) · [Service](https://pasty.kryptikk.de)
 
 ## Ideen
 
@@ -15,7 +15,7 @@
 
 * [ ] **HTTP Change Detector** — Überwacht Webseiten oder einzelne CSS-Selektoren und erkennt Änderungen an Texten, Preisen oder Statusinformationen.
 
-* [ ] **One-Time Secret** — Speichert kurze Geheimnisse und erzeugt Links, die nur einmal oder innerhalb einer festgelegten Zeit verwendet werden können.
+* [x] **One-Time Secret** — Speichert kurze Geheimnisse und erzeugt Links, die nur einmal oder innerhalb einer festgelegten Zeit verwendet werden können.
 
 * [x] **Temporary File Drop** — Dateien werden hochgeladen, erhalten einen temporären Link und werden nach einer bestimmten Zeit automatisch gelöscht.
 
